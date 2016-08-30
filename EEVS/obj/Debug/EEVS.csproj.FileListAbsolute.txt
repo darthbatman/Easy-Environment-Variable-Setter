@@ -1,0 +1,9 @@
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\bin\Debug\EEVS.exe.config
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\bin\Debug\EEVS.exe
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\bin\Debug\EEVS.pdb
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\obj\Debug\EEVS.Form1.resources
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\obj\Debug\EEVS.Properties.Resources.resources
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\obj\Debug\EEVS.csproj.GenerateResource.Cache
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\obj\Debug\EEVS.exe
+c:\users\darth\documents\visual studio 2015\Projects\EEVS\EEVS\obj\Debug\EEVS.pdb
+C:\Users\Darth\Documents\Visual Studio 2015\Projects\EEVS\EEVS\obj\Debug\EEVS.csprojResolveAssemblyReference.cache
